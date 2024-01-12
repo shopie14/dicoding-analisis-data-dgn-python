@@ -1,6 +1,6 @@
 # ShopiBike - Aplikasi Analisis Data dengan Python
 
-![ShopiBike Logo](link_ke_gambar_logo.png)
+![ShopiBike Logo]([link_ke_gambar_logo.png](https://www.marketplace.org/wp-content/uploads/2021/10/GettyImages-1221065582.jpg))
 
 Selamat datang di repositori Analisis Data dengan Python menggunakan ShopiBike! Aplikasi ini dibangun dengan menggunakan Streamlit untuk memberikan visualisasi dan analisis data yang mudah dipahami.
 
@@ -29,7 +29,7 @@ Selamat datang di repositori Analisis Data dengan Python menggunakan ShopiBike! 
 5. Jalankan aplikasi ShopiBike:
 
     ```bash
-    streamlit run shopibike_app.py
+    streamlit run dashboard.py
     ```
 
 6. Buka browser dan akses [http://localhost:8501](http://localhost:8501) untuk melihat aplikasi ShopiBike.
