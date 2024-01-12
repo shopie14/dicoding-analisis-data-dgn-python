@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Specify the full path to the CSV file
-file_path = r"D:\MACHINE LEARNING\Dicoding ML\Belajar Analisis Data dengan Python\submission_bike_sharing\dashboard\bike_sharing.csv"
+file_path = r"../dashboard/bike_sharing.csv"
 
 # Load your dataset
 bike_merge = pd.read_csv(file_path)
